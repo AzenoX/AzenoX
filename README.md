@@ -1,8 +1,6 @@
-<h1 align="center">Hello there 👋</h1>
+# Hello there 👋
 
-<hr/>
-
-<h3>A Star Wars fan who code some things.</h3>
+### A Star Wars fan who code some things.
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Falexishayat.me%2Fapi%2Fstats%2Fgithub%2FrepoCount)
 ![Custom badge](https://img.shields.io/endpoint?color=777BB4&style=for-the-badge&url=https%3A%2F%2Falexishayat.me%2Fapi%2Fstats%2Fgithub%2Flang)
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Falexishayat.me%2Fapi%2Fstats%2Fgithub%2Fcommits)
