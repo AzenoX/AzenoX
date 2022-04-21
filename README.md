@@ -1,4 +1,5 @@
 # Hello there 👋
+![Hello There](https://raw.githubusercontent.com/AzenoX/AzenoX/master/assets/hello-there-kenobi.gif "Hello There Meme")
 
 ### A Star Wars fan who code some things.
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Falexishayat.me%2Fapi%2Fstats%2Fgithub%2FrepoCount)
