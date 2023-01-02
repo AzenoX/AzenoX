@@ -40,3 +40,10 @@
 Well, like many people I have a portfolio. I only connect my GitHub to it so there is no that much more interesting things compared to here xD
 
 [https://alexishayat.me/](https://alexishayat.me/)
+
+
+## Gists
+
+I have some gists, feel free to check^^
+
+[https://gist.github.com/AzenoX](https://gist.github.com/AzenoX)
