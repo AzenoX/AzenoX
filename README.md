@@ -42,6 +42,12 @@ Well, like many people I have a portfolio. I only connect my GitHub to it so the
 [https://alexishayat.me/](https://alexishayat.me/)
 
 
+## CSSBattle
+
+Sometimes, I do some daily targets, here is my profile:
+[https://cssbattle.dev/player/azenox](https://cssbattle.dev/player/azenox)
+
+
 ## Gists
 
 I have some gists, feel free to check^^
