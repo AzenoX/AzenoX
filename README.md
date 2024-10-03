@@ -13,19 +13,21 @@
 ### Basics
 ![HTML](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/html.svg "HTML")
 ![CSS](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/css.svg "CSS")
+![SASS](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/sass.svg "SASS")
 
 ### Frontend
 ![Javascript](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/javascript.svg "Javascript")
 ![VueJS](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/vuejs.svg "VueJS")
-![SASS](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/sass.svg "SASS")
 ![Bootstrap](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/bootstrap.svg "Bootstrap")
 
 ### Backend
 ![PHP](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/php.svg "PHP")
 ![Laravel](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/laravel.svg "Laravel")
+![NextJS](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/nextjs.svg "NextJS")
 
 ### Database
 ![MySQL](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/mysql.svg "MySQL")
+![PostgreSQL](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/postgresql.svg "PostgreSQL")
 ![SQLite](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/sqlite.svg "SQLite")
 
 ### Design
@@ -33,6 +35,7 @@
 
 ### Other
 ![Docker](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/docker.svg "Docker")
+![Python](https://raw.githubusercontent.com/AzenoX/AzenoX/master/svg/python.svg "Python")
 
 
 ## Portfolio
